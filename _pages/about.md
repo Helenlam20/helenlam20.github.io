@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.eur.nl/en/people/helen-lam'>PhD student Health Economics & Applied Microeconomics</a>
+subtitle: <a href='https://www.eur.nl/en/people/helen-lam'>PhD candidate Health Economics & Applied Microeconomics</a>
 
 profile:
   align: right
@@ -18,7 +18,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a first-year PhD student from the School of Health Policy and Management (Health Economics) at the Erasmus University Rotterdam. 
+I am a first-year PhD candidate from the School of Health Policy and Management (Health Economics) at the Erasmus University Rotterdam. 
+
+(I am a PhD candidate in the Health Equity action line from the Erasmus Smarter Choices for Beter Health)
 
 My research interests lie in the area of health economics and applied microeconomics with an emphasis on human capital, child health and development, and socioeconomic inequality in (early) childhood. 
 
@@ -26,15 +28,15 @@ Currently, I am working on three research projects:
 
 <!-- 1. <a href='https://kansenkaart.nl/'>KansenKaart</a> -->
 
-1. test research projects
+1) test research projects
 
 insert a nice description of what this research projects is about. insert a nice description of what this research projects is about. 
 
-2. test research projects
+2) test research projects
 
 insert a nice description of what this research projects is about. insert a nice description of what this research projects is about. 
 
-3. test research projects
+3) test research projects
 
 insert a nice description of what this research projects is about. insert a nice description of what this research projects is about. 
 
