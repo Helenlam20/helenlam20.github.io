@@ -2,21 +2,23 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>PhD student Health Economics & Applied Microeconomics</a>
 
 profile:
   align: right
   image: phd_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Mandeville T18-04</p>
+    <p>Burgemeester Oudlaan 50</p>
+    <p>3062 PA Rotterdam</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+
+I am a PhD student at the Erasmus University Rotterdam. My research interests lie in the area of health economics and applied microeconomics with an emphasis on human capital, child health and development, and socioeconomic inequality in (early) childhood. 
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
