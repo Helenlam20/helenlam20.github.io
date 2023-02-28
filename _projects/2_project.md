@@ -3,7 +3,7 @@ layout: page
 title: Inequality dashboard
 description: A dashboard on socioeconomic inequality in the Netherlands
 img: assets/img/dashboard_amsterdam.png
-importance: 4
+importance: 2
 category: research
 ---
 
