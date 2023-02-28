@@ -18,15 +18,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a first-year PhD candidate from the School of Health Policy and Management (Health Economics) at the Erasmus University Rotterdam. 
-
-(I am a PhD candidate in the Health Equity action line from the Erasmus Smarter Choices for Beter Health)
+I am a first-year PhD candidate from the School of Health Policy and Management (Health Economics) at the Erasmus University Rotterdam. My PhD is funded by the Health Equity action line from the Erasmus initiative <i>Smarter Choices for Beter Health.</i>
 
 My research interests lie in the area of health economics and applied microeconomics with an emphasis on human capital, child health and development, and socioeconomic inequality in (early) childhood. 
 
 Currently, I am working on three research projects:
 
-<!-- 1. <a href='https://kansenkaart.nl/'>KansenKaart</a> -->
+<!-- 1) <a href='https://kansenkaart.nl/'>KansenKaart</a> -->
 
 1) test research projects
 
