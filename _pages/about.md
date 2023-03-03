@@ -18,28 +18,24 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a first-year PhD candidate from the School of Health Policy and Management (Health Economics) at the Erasmus University Rotterdam. My PhD is funded by the Health Equity action line from the Erasmus initiative <i>Smarter Choices for Beter Health.</i>
+I am a first-year PhD candidate at the School of Health Policy and Management (Health Economics) at Erasmus University Rotterdam. My PhD is funded by the Health Equity action line of the Erasmus initiative <i>Smarter Choices for Beter Health.</i>
 
-My research interests lie in the area of health economics and applied microeconomics with an emphasis on human capital, child health and development, and socioeconomic inequality in (early) childhood. 
+My research interests are in the field of health economics and applied microeconomics, with a particular emphasis on human capital, child health and development, and socioeconomic inequality in early childhood. 
 
 Currently, I am working on three research projects:
 
-<!-- 1) <a href='https://kansenkaart.nl/'>KansenKaart</a> -->
+**1) KansenKaart project: intergenerational mobility in the Netherlands.**
 
-1) test research projects
+In this project, we investigate intergenerational mobility across different regions in the Netherlands. Using the U.S. Opportunity Atlas as our methodological foundation, we explore the relationship between childhood circumstances and human capital outcomes from birth to adulthood.
 
-insert a nice description of what this research projects is about. insert a nice description of what this research projects is about. 
+<!-- We develop some refinements of the methods used by the U.S. Opportunity Atlas
+to better estimate absolute mobility at given percentiles of the parental income distribution and demonstrate that the adoption of narrow parental income bandwidths and
+flexible econometric specifications reduce systematic biases. -->
 
-2) test research projects
+**2) Birth Inequalities: The Effect of Adverse Birth Outcomes on Child Health and Development at Age 2.**
 
-insert a nice description of what this research projects is about. insert a nice description of what this research projects is about. 
+ In this project, my focus is on the relationship between birth outcomes and health and development in early childhood. Specifically, I examine the association between two birth outcomes, low birth weight, and preterm birth, and an increased risk of being underweight or overweight, speech and language delay, and the use of youth protection services at age 2.
 
-3) test research projects
+**3) The Social and Economic Impact of Housing Market Policy in the Netherlands: What can we learn from bank transaction data?**
 
-insert a nice description of what this research projects is about. insert a nice description of what this research projects is about. 
-
-<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
+This is a new project that I have just started, and it is more focused on the area of applied and general economics. Using bank transaction data, we aim to study the socioeconomic changes for residents in neighborhoods with relatively low-income households where new houses will be built to attract high-income households. 
