@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a first-year PhD candidate at the School of Health Policy and Management (Health Economics) at Erasmus University Rotterdam. My PhD is funded by the Health Equity action line of the Erasmus initiative <i>Smarter Choices for Beter Health.</i>
+I am a first-year PhD candidate at the School of Health Policy and Management (Health Economics) at Erasmus University Rotterdam. I am part of the Health Equity action line of the Erasmus initiative <i>Smarter Choices for Beter Health.</i>
 
 My research interests are in the field of health economics and applied microeconomics, with a particular emphasis on human capital, child health and development, and socioeconomic inequality in early childhood. 
 
@@ -38,4 +38,4 @@ flexible econometric specifications reduce systematic biases. -->
 
 **3) The Social and Economic Impact of Housing Market Policy in the Netherlands: What can we learn from bank transaction data?**
 
-This is a new project that I have just started, and it is more focused on the area of applied and general economics. Using bank transaction data, we aim to study the socioeconomic changes for residents in neighborhoods with relatively low-income households where new houses will be built to attract high-income households. 
+This is a new project that I have just started, and it is more focused on the area of applied and general economics. Using bank transaction data from ABN AMRO, we aim to study the socioeconomic changes for residents in neighborhoods with relatively low-income households where new houses will be built to attract high-income households. 
