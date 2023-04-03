@@ -7,7 +7,7 @@ subtitle: <a href='https://www.eur.nl/en/people/helen-lam'>PhD candidate Health 
 profile:
   align: right
   image: phd_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
     <p>Mandeville T18-04</p>
     <p>Burgemeester Oudlaan 50</p>
@@ -38,4 +38,4 @@ flexible econometric specifications reduce systematic biases. -->
 
 **3) The Social and Economic Impact of Housing Market Policy in the Netherlands: What can we learn from bank transaction data?**
 
-This is a new project that I have just started, and it is more focused on the area of applied and general economics. Using bank transaction data from ABN AMRO, we aim to study the socioeconomic changes for residents in neighborhoods with relatively low-income households where new houses will be built to attract high-income households. 
+This is a new project that I have just started. Using bank transaction data from ABN AMRO, we aim to study the socioeconomic change in neighborhoods composition on the social, economic, and financial circumstances of residents. 

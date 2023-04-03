@@ -39,13 +39,13 @@
     - title: Junior Researcher
       institution: Erasmus School of Economics, Erasmus University Rotterdam
       year: 2021 - 2022
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+      # description:
+      #   - Description 1.
+      #   - Description 2.
+      #   - title: Description 3.
+      #     contents:
+      #       - Sub-description 1.
+      #       - Sub-description 2.
 
     - title: SoDa Data Steward/ Research Assistant
       institution: ODISSEI Social Data Science Team (SoDa), Utrecht University
