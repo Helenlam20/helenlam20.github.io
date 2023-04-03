@@ -22,6 +22,9 @@ I am a first-year PhD candidate at the School of Health Policy and Management (H
 
 My research interests are in the field of health economics and applied microeconomics, with a particular emphasis on human capital, child health and development, and socioeconomic inequality in early childhood. 
 
+&nbsp;
+### Research projects
+
 Currently, I am working on three research projects:
 
 **1) KansenKaart project: intergenerational mobility in the Netherlands.**
