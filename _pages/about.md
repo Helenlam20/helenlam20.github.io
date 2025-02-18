@@ -9,7 +9,6 @@ profile:
   image: phd_pic.jpg
   image_circular: true # crops the image to make it circular
   address: >
-    <p>Mandeville T18-04</p>
     <p>Burgemeester Oudlaan 50</p>
     <p>3062 PA Rotterdam</p>
 
@@ -18,27 +17,27 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a first-year PhD candidate at the School of Health Policy and Management (Health Economics) at Erasmus University Rotterdam. I am part of the Health Equity action line of the Erasmus initiative <i>Smarter Choices for Beter Health.</i>
+I am a Ph.D. candidate at Erasmus University Rotterdam, within the Erasmus School of Health Policy and Management, Department of Health Economics. I am part of the Health Equity action line of the Erasmus Initiative "Smarter Choices for Better Health."
 
-My research interests are in the field of health economics and applied microeconomics, with a particular emphasis on human capital, child health and development, and socioeconomic inequality in early childhood. 
+My research interests lie in the fields of health economics and applied microeconomics, with a particular focus on the relationships between human capital, child health and development, and socioeconomic inequality. I am especially interested in how early-life circumstances influence health, education, and economic outcomes from early childhood to adulthood.
+
+My work aims to contribute to a better understanding of how, when, and where the opportunity gap opens up in the Netherlands and the mechanisms driving disparities in health and well-being. Ultimately, I seek to inform policies that promote greater equity and create opportunities for all.
+
 
 &nbsp;
 ### Research projects
 
 Currently, I am working on three research projects:
 
-**1) KansenKaart project: intergenerational mobility in the Netherlands.**
+**1) How, When, and Where Does the Opportunity Gap Open Up in the Netherlands?**
 
-In this project, we investigate intergenerational mobility across different regions in the Netherlands. Using the U.S. Opportunity Atlas as our methodological foundation, we explore the relationship between childhood circumstances and human capital outcomes from birth to adulthood.
+We analyze administrative data on 4.6 million children and their parents to study intergenerational mobility in the Netherlands. The opportunity gap emerges early, with strong links between parental income, wealth, and education and a child’s health, education, and economic outcomes. These disparities persist into adulthood, making the Netherlands one of the least mobile developed countries after the U.S. and the UK. We also find regional variation in mobility, with better outcomes in rural areas and lower mobility in left-leaning and highly segregated regions. Our results are available at opportunitygap.nl and opportunitymap.nl.
 
-<!-- We develop some refinements of the methods used by the U.S. Opportunity Atlas
-to better estimate absolute mobility at given percentiles of the parental income distribution and demonstrate that the adoption of narrow parental income bandwidths and
-flexible econometric specifications reduce systematic biases. -->
 
-**2) Birth Inequalities: The Effect of Adverse Birth Outcomes on Child Health and Development at Age 2.**
+**2) Improved Targeting to Prevent Adverse Birth Outcomes using Big Data in the Netherlands**
 
- In this project, my focus is on the relationship between birth outcomes and health and development in early childhood. Specifically, I examine the association between two birth outcomes, low birth weight, and preterm birth, and an increased risk of being underweight or overweight, speech and language delay, and the use of youth protection services at age 2.
+This study examines the link between adverse birth outcomes and sociodemographic factors using data from 1.56 million births in the Netherlands (2011–2020). We find significant income-related disparities, with low-income births more likely to be small for gestational age, preterm, or have higher infant mortality. Geographic variation in outcomes is also notable, with worse outcomes for low-income parents in former mining regions. Regions with poorer birth outcomes have higher shares of Catholic and Muslim residents, immigrants, and populist political support.
 
-**3) The Social and Economic Impact of Housing Market Policy in the Netherlands: What can we learn from bank transaction data?**
+**3) From Birth to Toddlerhood: The Effect of Adverse Birth Outcomes on Child Health and Development at Age 2**
 
-This is a new project that I have just started. Using bank transaction data from ABN AMRO, we aim to study the socioeconomic change in neighborhoods composition on the social, economic, and financial circumstances of residents. 
+This paper explores the links between low birth weight (<2,500g), preterm birth (<37 weeks), and risks of being underweight, overweight, having speech delays, or needing youth protection services by age 2. Using data from the Netherlands (2010-2018), I find low birth weight increases the likelihood of being underweight, and high birth weight raises the risk of being overweight. No strong links were found for speech delays, and the association with youth protection services is minimal. Preventing extreme birth weights may improve early health but not speech development. Further analysis will explore additional outcomes.
