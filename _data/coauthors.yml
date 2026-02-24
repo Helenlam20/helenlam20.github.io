@@ -1,5 +1,5 @@
 "Ravesteijn":
-  - firstname: ["Bastian", "R."]
+  - firstname: ["Bastian", "B."]
     url: http://www.bastianravesteijn.com/
 
 "Van De Kraats":
@@ -9,3 +9,7 @@
 "Van Kesteren":
   - firstname: ["Erik-Jan", "E.J."]
     url: https://erikjanvankesteren.nl/
+
+"Van Kippersluis":
+  - firstname: ["Hans", "H."]
+    url: https://sites.google.com/site/hansvankippersluis/

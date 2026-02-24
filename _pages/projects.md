@@ -1,11 +1,11 @@
 ---
 layout: page
-title: research projects
+title: Research Projects
 permalink: /projects/
 description: 
 nav: true
 nav_order: 2
-display_categories: [research]
+display_categories: [Research, 'Web-based data sharing']
 horizontal: false
 ---
 

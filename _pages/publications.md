@@ -1,9 +1,9 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: Publications
 description: 
-years: [2021, 2023]
+years: [2021, 2026]
 nav: true
 nav_order: 1
 ---
@@ -13,13 +13,15 @@ nav_order: 1
 
 <div class="publications">
 
-<h1>working papers</h1>
+
+<h1>Working Papers</h1> 
 {%- for y in page.years %}
   {% bibliography -f papers_working_paper -q @*[year={{y}}]* %}
 {% endfor %}
 
 
-<h1>other publications</h1>
+
+<h1>Other Publications</h1>
 {%- for y in page.years %}
   {% bibliography -f papers_published -q @*[year={{y}}]* %}
 {% endfor %}
