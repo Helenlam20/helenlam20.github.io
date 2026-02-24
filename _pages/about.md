@@ -21,7 +21,7 @@ I am a Ph.D. candidate at Erasmus University Rotterdam, within the Erasmus Schoo
 
 I study how early-life conditions shape inequality in health and socioeconomic outcomes. Leveraging large-scale administrative and longitudinal data from the Netherlands, I examine intergenerational mobility across the life course, from birth to adulthood, and across domains including health, education, labor markets, and housing. Additionally, I apply causal inference methods to identify the effects of adverse birth outcomes on childhood health and development. 
 
-<!-- A central aim of my research is to understand how, when, and where opportunity gaps emerge, and which mechanisms drive disparities in health and well-being.  -->
+Contact: [lam@eshpm.eur.nl](mailto:lam@eshpm.eur.nl)
 
 
 &nbsp;
