@@ -14,7 +14,7 @@ nav_order: 1
 <div class="publications">
 
 
-<h1>Working Papers</h1> 
+<h1>Works in Progress</h1> 
 {%- for y in page.years %}
   {% bibliography -f papers_working_paper -q @*[year={{y}}]* %}
 {% endfor %}

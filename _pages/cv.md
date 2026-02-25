@@ -1,8 +1,12 @@
-<!-- ---
-layout: cv
+---
+layout: page
 permalink: /cv/
-title: cv
-nav: false
+title: CV
+nav: true
 nav_order: 4
-cv_pdf: example_pdf.pdf 
---- -->
+---
+
+
+[Click here for the CV](/assets/pdf/CV_PhD___Helen_Lam.pdf) 
+
+

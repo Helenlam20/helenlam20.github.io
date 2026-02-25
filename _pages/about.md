@@ -25,13 +25,13 @@ Contact: [lam@eshpm.eur.nl](mailto:lam@eshpm.eur.nl)
 
 
 &nbsp;
-### Research projects
+### Research Projects
 
 Currently, I am working on three research projects:
 
 **1) How, When, and Where Does the Opportunity Gap Open Up in the Netherlands?**
 
-We analyze administrative data on 4.6 million children and their parents to study intergenerational mobility in the Netherlands. The opportunity gap emerges early, with strong links between parental income, wealth, and education and a child’s health, education, and economic outcomes. These disparities persist into adulthood, making the Netherlands one of the least mobile developed countries after the U.S. and the UK. We also find regional variation in mobility, with better outcomes in rural areas and lower mobility in left-leaning and highly segregated regions. We publish our results on [www.opportunitymap.nl](www.opportunitymap.nl) and [www.opportunitygap.nl](www.opportunitygap.nl).
+We analyze administrative data on 4.6 million children and their parents to study intergenerational mobility in the Netherlands. The opportunity gap emerges early, with strong links between parental income, wealth, and education and a child’s health, education, and economic outcomes. These disparities persist into adulthood, making the Netherlands one of the least mobile developed countries after the U.S. and the UK. We also find regional variation in mobility, with better outcomes in rural areas and lower mobility in left-leaning and highly segregated regions. We publish our results on [www.opportunitymap.nl](https://opportunitymap.nl/persoonlijkinkomen#6.56/52.282/5.285) and [www.opportunitygap.nl](https://opportunitygap.nl/).
 
 
 **2) Improved Targeting to Prevent Adverse Birth Outcomes using Big Data in the Netherlands**
