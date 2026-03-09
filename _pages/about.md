@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am a Ph.D. candidate at Erasmus University Rotterdam, within the Erasmus School of Health Policy and Management, Department of Health Economics, and part of the Health Equity action line of the Erasmus Initiative [“Smarter Choices for Better Health.”](https://www.eur.nl/en/research/research-groups-initiatives/erasmus-initiatives/smarter-choices-better-health) My research focuses on health economics and applied microeconomics, particularly on human capital, child health and development, and equality of opportunity. 
 
-I study how early-life conditions shape inequality in health and socioeconomic outcomes. Leveraging large-scale administrative and longitudinal data from the Netherlands, I examine intergenerational mobility across the life course, from birth to adulthood, and across domains including health, education, labor markets, and housing. Additionally, I apply causal inference methods to identify the effects of adverse birth outcomes on childhood health and development. 
+I study how early-life conditions shape inequality in health and socioeconomic outcomes. Leveraging large-scale administrative data from the Netherlands, I examine intergenerational mobility across the life course, from birth to adulthood, and across domains including health, education, labor markets, and housing. Additionally, I apply causal inference methods to identify the effects of adverse birth outcomes on childhood health and development. 
 
 Contact: [lam@eshpm.eur.nl](mailto:lam@eshpm.eur.nl)
 
