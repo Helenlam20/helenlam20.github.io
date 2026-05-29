@@ -39,6 +39,6 @@ We analyze administrative data on 4.6 million children and their parents to stud
 This study examines the link between adverse birth outcomes and sociodemographic factors using data from 1.56 million births in the Netherlands (2011–2020). We find significant income-related disparities, with low-income births more likely to be small for gestational age, preterm, or have higher infant mortality. Geographic variation in outcomes is also notable, with worse outcomes for low-income parents in former mining regions. Regions with poorer birth outcomes have higher shares of Catholic and Muslim residents, immigrants, and populist political support.
 
 
-**3) Born Too Small: The Effect of Low Birth Weight on Health and Development in Childhood**
+**3) How Neonatal Health Shapes Human Capital: Evidence on Developmental Pathways**
 
 This paper studies the causal impact of birth weight on health and development using linked Dutch administrative and preventive health data with sibling and twin fixed-effects models. We find that low birth weight has persistent negative effects on physical health, language development, academic performance, and early-life hospital costs. The results underscore the long-term consequences of early-life disadvantage and the importance of targeted interventions.
